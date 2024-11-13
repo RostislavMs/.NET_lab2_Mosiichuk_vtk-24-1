@@ -1,0 +1,7 @@
+C:\ВТк-24-1\C#\ExtensionMethodsAndGenericsDemo\ExtensionMethodsAndGenericsDemo\bin\Debug\ExtensionMethodsAndGenericsDemo.exe.config
+C:\ВТк-24-1\C#\ExtensionMethodsAndGenericsDemo\ExtensionMethodsAndGenericsDemo\bin\Debug\ExtensionMethodsAndGenericsDemo.exe
+C:\ВТк-24-1\C#\ExtensionMethodsAndGenericsDemo\ExtensionMethodsAndGenericsDemo\bin\Debug\ExtensionMethodsAndGenericsDemo.pdb
+C:\ВТк-24-1\C#\ExtensionMethodsAndGenericsDemo\ExtensionMethodsAndGenericsDemo\obj\Debug\ExtensionMethodsAndGenericsDemo.csproj.AssemblyReference.cache
+C:\ВТк-24-1\C#\ExtensionMethodsAndGenericsDemo\ExtensionMethodsAndGenericsDemo\obj\Debug\ExtensionMethodsAndGenericsDemo.csproj.CoreCompileInputs.cache
+C:\ВТк-24-1\C#\ExtensionMethodsAndGenericsDemo\ExtensionMethodsAndGenericsDemo\obj\Debug\ExtensionMethodsAndGenericsDemo.exe
+C:\ВТк-24-1\C#\ExtensionMethodsAndGenericsDemo\ExtensionMethodsAndGenericsDemo\obj\Debug\ExtensionMethodsAndGenericsDemo.pdb
